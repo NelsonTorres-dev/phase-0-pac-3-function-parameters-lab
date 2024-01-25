@@ -1,4 +1,4 @@
-# JavaScript Function Parameters Lab
+ # JavaScript Function Parameters Lab
 
 ## Learning Goals
 
